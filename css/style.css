@@ -1,0 +1,47 @@
+@font-face {
+  font-family: formulaone;
+  src: url(Formula1-Regular.ttf);
+}
+
+body{
+  font-family: formulaone;
+  font-size: 0.9rem;
+  letter-spacing: 0.05px;
+  color: #fff;
+  background-color: #333;
+}
+
+thead {
+  background-color: #666!important;
+}
+
+table {
+  border-color: #eee;
+}
+
+.race {
+  text-align: center;
+  padding: 5px;
+}
+
+.name {
+  display: grid;
+  grid-template-columns: 10px 180px 25px;
+  padding: 3px 0px;
+  vertical-align: middle;
+}
+
+.team {
+  border-left: 3px solid;
+}
+
+.mercedes {border-color: #00D2BE;}
+.ferrari {border-color:	#DC0000;}	
+.redbull {border-color:	#1E41FF;}	
+.renault {border-color:	#FFF500;}
+.haas {border-color: #F0D787;}
+.racingpoint {border-color:	#F596C8;}
+.tororosso {border-color:	#469BFF;}	
+.mclaren {border-color: #FF8700;}	
+.alfaromeo {border-color: #9B0000;}	
+.williams {border-color: #FFFFFF;}
