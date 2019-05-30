@@ -3,7 +3,7 @@
   src: url(Formula1-Regular.ttf);
 }
 
-body{
+body {
   font-family: formulaone;
   font-size: 0.9rem;
   letter-spacing: 0.05px;
@@ -12,7 +12,7 @@ body{
 }
 
 thead {
-  background-color: #666!important;
+  background-color: #666;
 }
 
 table {
@@ -35,13 +35,33 @@ table {
   border-left: 3px solid;
 }
 
-.mercedes {border-color: #00D2BE;}
-.ferrari {border-color:	#DC0000;}	
-.redbull {border-color:	#1E41FF;}	
-.renault {border-color:	#FFF500;}
-.haas {border-color: #F0D787;}
-.racingpoint {border-color:	#F596C8;}
-.tororosso {border-color:	#469BFF;}	
-.mclaren {border-color: #FF8700;}	
-.alfaromeo {border-color: #9B0000;}	
-.williams {border-color: #FFFFFF;}
+.mercedes {
+  border-color: #00d2be;
+}
+.ferrari {
+  border-color: #dc0000;
+}
+.redbull {
+  border-color: #1e41ff;
+}
+.renault {
+  border-color: #fff500;
+}
+.haas {
+  border-color: #f0d787;
+}
+.racingpoint {
+  border-color: #f596c8;
+}
+.tororosso {
+  border-color: #469bff;
+}
+.mclaren {
+  border-color: #ff8700;
+}
+.alfaromeo {
+  border-color: #9b0000;
+}
+.williams {
+  border-color: #ffffff;
+}
